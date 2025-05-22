@@ -3,26 +3,26 @@
 ### Evidence:
 ![Career Dev](https://github.com/user-attachments/assets/236c87a0-4a70-466d-85aa-05644b437a43)
 ### Reflection(STAR Technique): 
-**Situation:**
+**Situation:** This program was focused on identifying suitable career paths.
 <br><br>
-**Task:**
+**Task:** With this in mind I wanted to see if the career choice I have chosen was an ideal fit for me.
 <br><br>
-**Action:**
+**Action:** I undertook the program and took part in the engaging quizzes. 
 <br><br>
-**Result:**
+**Result:** I gained deeper understanding of whether or not a career is suited for me or not. 
 <br>
 ***
 ## Skills and Interests
 ### Evidence:
 ![Skills n Interests](https://github.com/user-attachments/assets/c774020a-5194-4069-92d3-74fe69303398)
 ### Reflection(STAR Technique): 
-**Situation:**
+**Situation:** This program challenged me to look inward and evaluate my current skills. 
 <br><br>
-**Task:**
+**Task:** Identify my skills most relavant to my field of study. 
 <br><br>
-**Action:**
+**Action:** I jotted down as many skills I could think of. 
 <br><br>
-**Result:**
+**Result:** I identified a few key skills needed in my field of study.
 <br>
 ***
 ## Personality Assessment
