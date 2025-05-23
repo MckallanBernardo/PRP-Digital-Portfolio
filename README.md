@@ -29,13 +29,13 @@
 ### Evidence:
 ![Personality Assessment](https://github.com/user-attachments/assets/969e5f92-7447-45f9-b5c4-08ed448b6711)
 ### Reflection(STAR Technique):
-**Situation:**
+**Situation:** A program based on evaluating personality types and determining which career types the are best suited for.
 <br><br>
-**Task:**
+**Task:** Discover my own personality type and determine the career types associated with that personality type. 
 <br><br>
-**Action:**
+**Action:** I used the program as a reference point to evaluate my own personality and determine what the ideal career type is. 
 <br><br>
-**Result:**
+**Result:** I learned that I have a mix of many personality types, having traits from multiple of them. This confused me since it means I do not fit comfortably into one specific career type, but it did excite me since it means I have a lot of thinking to do. 
 <br>
 ***
 ## Create a CV
