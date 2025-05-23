@@ -9,7 +9,7 @@
 <br><br>
 **Action:** I undertook the program and took part in the engaging quizzes. 
 <br><br>
-**Result:** I gained deeper understanding of whether or not a career is suited for me or not. 
+**Result:** I gained a deeper understanding of whether or not a career is suited for me or not. 
 <br>
 ***
 ## Skills and Interests
@@ -29,7 +29,7 @@
 ### Evidence:
 ![Personality Assessment](https://github.com/user-attachments/assets/969e5f92-7447-45f9-b5c4-08ed448b6711)
 ### Reflection(STAR Technique):
-**Situation:** A program based on evaluating personality types and determining which career types the are best suited for.
+**Situation:** A program based on evaluating personality types and determining which career types they are best suited for.
 <br><br>
 **Task:** Discover my own personality type and determine the career types associated with that personality type. 
 <br><br>
