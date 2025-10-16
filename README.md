@@ -93,7 +93,6 @@
 ## Mock Interview
 ### Evidence:
 ![](https://github.com/user-attachments/assets/8868a596-3f15-478e-8e34-7ac0c7f1cd60)
-
 ### Reflection(STAR Technique):
 **Situation:** 
 <br><br>
@@ -106,6 +105,7 @@
 ***
 ## Professional Networking
 ### Evidence:
+![](https://github.com/user-attachments/assets/7512a6c8-225e-45df-aadf-86849e71dd07)
 ### Reflection(STAR Technique):
 **Situation:** 
 <br><br>
