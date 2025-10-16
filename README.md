@@ -79,6 +79,7 @@
 ***
 ## Interview Skills
 ### Evidence:
+![](https://github.com/user-attachments/assets/3d1a958c-4f2e-4232-a719-882245bcecac)
 ### Reflection(STAR Technique):
 **Situation:** 
 <br><br>
