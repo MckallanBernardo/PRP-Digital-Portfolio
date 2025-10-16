@@ -81,51 +81,51 @@
 ### Evidence:
 ![](https://github.com/user-attachments/assets/3d1a958c-4f2e-4232-a719-882245bcecac)
 ### Reflection(STAR Technique):
-**Situation:** 
+**Situation:** Faced potential employment interview scenarios.
 <br><br>
-**Task:** 
+**Task:** Present myself as competent and confident.
 <br><br>
-**Action:** 
+**Action:** Practiced answering common and behavioral questions.
 <br><br>
-**Result:** 
+**Result:** Gained confidence and improved interview performance.
 <br>
 ***
 ## Mock Interview
 ### Evidence:
 ![](https://github.com/user-attachments/assets/8868a596-3f15-478e-8e34-7ac0c7f1cd60)
 ### Reflection(STAR Technique):
-**Situation:** 
+**Situation:** Simulated a real workplace interview.
 <br><br>
-**Task:** 
+**Task:** Apply communication and self-presentation skills.
 <br><br>
-**Action:** 
+**Action:** Participated in a realistic mock interview session.
 <br><br>
-**Result:** 
+**Result:** Enhanced readiness for actual job interviews.
 <br>
 ***
 ## Professional Networking
 ### Evidence:
 ![](https://github.com/user-attachments/assets/7512a6c8-225e-45df-aadf-86849e71dd07)
 ### Reflection(STAR Technique):
-**Situation:** 
+**Situation:** Needed to build career connections.
 <br><br>
-**Task:** 
+**Task:** Engage meaningfully with professionals.
 <br><br>
-**Action:** 
+**Action:** Practiced initiating and maintaining conversations.
 <br><br>
-**Result:** 
+**Result:** Strengthened interpersonal skills.
 <br>
 ***
 ## Workplace Etiquette
 ### Evidence:
 ![](https://github.com/user-attachments/assets/dcd24a31-267b-404b-8cc2-78efaa25c1ce)
 ### Reflection(STAR Technique):
-**Situation:** 
+**Situation:** Did a workshop on professional conduct.
 <br><br>
-**Task:** 
+**Task:** Understand expected behavior in workplace settings.
 <br><br>
-**Action:** 
+**Action:** Learned about communication, dress code, and ethics.
 <br><br>
-**Result:** 
+**Result:** Gained knowledge to adapt effectively to workplace culture.
 <br>
 ***
