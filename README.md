@@ -76,3 +76,51 @@
 **Result:** 
 <br>
 ***
+## Interview Skills
+### Evidence:
+### Reflection(STAR Technique):
+**Situation:** 
+<br><br>
+**Task:** 
+<br><br>
+**Action:** 
+<br><br>
+**Result:** 
+<br>
+***
+## Mock Interview
+### Evidence:
+### Reflection(STAR Technique):
+**Situation:** 
+<br><br>
+**Task:** 
+<br><br>
+**Action:** 
+<br><br>
+**Result:** 
+<br>
+***
+## Professional Networking
+### Evidence:
+### Reflection(STAR Technique):
+**Situation:** 
+<br><br>
+**Task:** 
+<br><br>
+**Action:** 
+<br><br>
+**Result:** 
+<br>
+***
+## Workplace Etiquette
+### Evidence:
+### Reflection(STAR Technique):
+**Situation:** 
+<br><br>
+**Task:** 
+<br><br>
+**Action:** 
+<br><br>
+**Result:** 
+<br>
+***
