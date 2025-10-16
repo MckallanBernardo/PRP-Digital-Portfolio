@@ -63,3 +63,16 @@
 <br><br>
 **Result:** I successfully created a CV that I can now use to apply for jobs.
 <br>
+***
+## Business Communication
+### Evidence:
+### Reflection(STAR Technique):
+**Situation:** 
+<br><br>
+**Task:** 
+<br><br>
+**Action:** 
+<br><br>
+**Result:** 
+<br>
+***
