@@ -118,6 +118,7 @@
 ***
 ## Workplace Etiquette
 ### Evidence:
+![](https://github.com/user-attachments/assets/dcd24a31-267b-404b-8cc2-78efaa25c1ce)
 ### Reflection(STAR Technique):
 **Situation:** 
 <br><br>
