@@ -68,13 +68,13 @@
 ### Evidence:
 ![Business Communication](https://github.com/user-attachments/assets/cfe06788-55c1-4587-b372-b3d8c2ed144b)
 ### Reflection(STAR Technique):
-**Situation:** 
+**Situation:** Needed to communicate effectively in a professional setting.
 <br><br>
-**Task:** 
+**Task:** Convey ideas clearly and confidently at work.
 <br><br>
-**Action:** 
+**Action:** Practiced structured speaking and active listening.
 <br><br>
-**Result:** 
+**Result:** Improved clarity and professionalism in communication.
 <br>
 ***
 ## Interview Skills
