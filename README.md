@@ -92,6 +92,8 @@
 ***
 ## Mock Interview
 ### Evidence:
+![](https://github.com/user-attachments/assets/8868a596-3f15-478e-8e34-7ac0c7f1cd60)
+
 ### Reflection(STAR Technique):
 **Situation:** 
 <br><br>
