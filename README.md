@@ -66,7 +66,7 @@
 ***
 ## Business Communication
 ### Evidence:
-<img width="765" height="283" alt="Business Communication" src="https://github.com/user-attachments/assets/cfe06788-55c1-4587-b372-b3d8c2ed144b" />
+![Business Communication](https://github.com/user-attachments/assets/cfe06788-55c1-4587-b372-b3d8c2ed144b)
 ### Reflection(STAR Technique):
 **Situation:** 
 <br><br>
